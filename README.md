@@ -17,7 +17,6 @@ The chat function is used in many apps. Flutter allows you to create iPhone and 
   3. Can send images,text and emoji's
   4. Story view for putting status
   5. Search Users
-  6. Calling friends
 
 ----
 
